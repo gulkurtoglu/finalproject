@@ -5,7 +5,7 @@ issues tab. When I checked it, I found that the following warnings: Reading cook
 in cross-site context will be blocked in future Chrome versions. Cookies with the
 SameSite=None; Secure and not Partitioned attributes that operate in cross-site
 contexts are third-party cookies. Affected resources: 10 cookes (with the cookie 
-ids that are mostly Google analytics and doubleclick.net) 
+ids that are mostly Google analytics and doubleclick.net)" 
 
 # TODO: Find out more about this information: "COOKIES_ENABLED: Cookies are disabled (False). 
 This means that the spiders won't store or send cookies during the crawling process."
