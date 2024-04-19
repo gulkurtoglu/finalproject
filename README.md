@@ -1,13 +1,17 @@
 # COMS W3132 Individual Project
 
 ## Author
-*Your name and email goes here.*
+Gul M. Kurtoglu Eskisar
+gmk2131@columbia.edu
+gmkurtoglu@gmail.com
+gul.kurtoglu@deu.edu.tr
 
 ## Project Title
-*Provide a short and descriptive title for your project.*
+Emotions, Populism and Social Media: Is there a link?
 
 ## Project Description
-*Write a short, concise project description of what your project aims to achieve. Include the motivation for this project (why do you want to work on it), the problem your project aims to solve, and the main goals that you want to accomplish within the rest of the semester. Also mention why you think the project might be useful or interesting to others. Keep this section short. A couple of paragraphs would do.*
+
+This project is related to my original project proposal to Fulbright Commission. For this class, I aim to scrape the web (political party websites, parliamentary websites, social media websites including Reddit and Eksisozluk) using Beautiful Soup and possibly Selenium to obtain data on populism. Once I collect the data, I aim to conduct a stance detection analysis (and ideally a sentiment analysis) using NLP methods.
 
 ## Timeline
 
@@ -25,33 +29,29 @@
 *The column Deliverables lists deliverable suggestions, but you can choose your own, depending on the type of your project.*
 
 ## Requirements, Features and User Stories
-*List the key requirements or features of your project. For each feature, provide a user story or a simple scenario explaining how the feature will be used. You don't have to get this section right the first time. Your understanding of the problem and requirements will improve as you work on your project. It is okay (and desirable) to come back to this section and revise it as you learn more about the problem you are trying to solve. The first version of this section should reflect your understanding of your problem at the beginning of the project.*
 
-*Also list any required hardware, software, on online services you will need. In specific cases, we might be able to lend you hardware or obtain online services. Please email the instructor for more details.*
+My project would scrape the web to collect data on populism, and later analyze this data through sentiment analysis. Due to time and other limits, I probably will not have time to be able to undertake the sentiment analysis portion of the project by the indicated deadline by the instructor.
+
+For the scraping part of the project, I will probably be able to use my own laptop, but if the scraped data is too large, I may have to find a way to use cloud services to run my scripts for the NLP part of the project. 
 
 ## Technical Specification
-*Detail the main algorithms, libraries, and technologies you plan to use. Explain your choice of technology and how it supports your project goals.*
 
-## System or Software Architecture Diagram
-*Include a block-based diagram illustrating the architecture of your software or system. This should include major components, such as user interface elements, back-end services, and data storage, and show how they interact. Tools like Lucidchart, Draw.io, or even hand-drawn diagrams photographed and uploaded are acceptable. The purpose of the diagram is to help us understand the architecture of your solution. Diagram asthetics do not matter and will not be graded.*
+It is quite likely that I will be using Beautiful Soup and/or Selenium to scrape the websites that I want. For the NLP part, I've heard of a program named Spacy, and intend to check it out to see if I can use it. 
+
+## System or Software Architecture 
+
+I am still not sure what is required here, so I will have to skip this part (again) for the time being.
 
 ## Development Methodology
-*Describe the methodology you'll use to organize and progress your work.*
 
-*First, describe your plan for developing your project. This might include how (or if) you plan to use*
-- *GitHub projects board to track progress on tasks and milestones*
-- *GitHub issues to keep track of issues or problems*
-- *Separate Git branches and/or GitHub pull requests for development*
-- *GitHub actions for automated testing or deployment pipelines*
-- *GitHub wiki for documentation and notes*
-
-*Please also describe how (if) you plan test and evaluate your project's functionality. Do you plan to test manually or automatically? Any specific testing frameworks or libraries you plan to use?*
+It is easy to measure the success of my project due to the nature of webscraping--if unsuccessful, my program would not enable me to collect any data at all. 
 
 ## Potential Challenges and Roadblocks
-*Identify any potential challenges or roadblocks you anticipate facing during the development of your project. For each challenge, propose strategies or solutions you might use to overcome them, which may include getting help from the TAs/instructor. This could include technical hurdles or learning new technologies.*
+
+My potential challenges for this project remain, but I hope to be able to remediate at least some of them before the deadline. 
 
 ## Additional Resources
-*Include any additional resources, tutorials, or documentation that will be helpful for this project.*
+I still intend to use the materials (homework scripts, relevant materials) from Prof. Daniel Bauer's NLP class, if I can.
 
 ## Conclusion and Future Work
-*Wrap up your project description with any final thoughts, expectations, or goals not covered in the sections above. Also briefly discuss potential future work, i.e., what could be done next to improve the project.*
+I remain convinced that if I can succeed with it, my project can eventually help me contribute significantly to my original field of expertise.
