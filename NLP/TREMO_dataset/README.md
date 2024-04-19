@@ -1,1 +1,1 @@
-
+TREMO dataset is one of the substantive datasets on emotions for Turkish language created by Tocoglu and Alpkocak. I want to use this dataset to be able to track populism among politicians and public in different settings (social media vs. parliament)
