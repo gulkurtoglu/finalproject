@@ -7,6 +7,9 @@ SameSite=None; Secure and not Partitioned attributes that operate in cross-site
 contexts are third-party cookies. Affected resources: 10 cookes (with the cookie 
 ids that are mostly Google analytics and doubleclick.net) 
 
+# TODO: Find out more about this information: "COOKIES_ENABLED: Cookies are disabled (False). 
+This means that the spiders won't store or send cookies during the crawling process."
+
 # -*- coding: utf-8 -*-
 
 Created on Thu Apr 18 15:40:08 2024
