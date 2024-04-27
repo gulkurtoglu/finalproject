@@ -1,7 +1,7 @@
 """
 This code runs without returning any results. I checked the web page's developer tools,
 and it gives the warning that "Third-party cookie will be blocked. Learn more in the 
-issues tab. When I checked it, I found that the following warnings: Reading cookie
+issues tab." When I checked it, I found that the following warnings: Reading cookie
 in cross-site context will be blocked in future Chrome versions. Cookies with the
 SameSite=None; Secure and not Partitioned attributes that operate in cross-site
 contexts are third-party cookies. Affected resources: 10 cookes (with the cookie 
